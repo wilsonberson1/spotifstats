@@ -1,5 +1,5 @@
 
-export const SPOTIFY_CLIENT_ID = "SEU_CLIENT_ID_AQUI"; // substitua
+export const SPOTIFY_CLIENT_ID = "1219b0c01ed84863a059d8436e16d6ad"; // substitua
 export function buildAuthorizeURL() {
   const redirectUri = window.location.origin + "/";
   const scopes = [
